@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795881365326",
+    "project_id": "fir-authapp-ceaaf",
+    "storage_bucket": "fir-authapp-ceaaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795881365326:android:b56a933dda3ea1e071c81f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWaEQOkJsud4KCht-woqaAyrWDMDPW7Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795881365326:android:dbeb9d5bb60215e271c81f",
+        "android_client_info": {
+          "package_name": "com.example.firebasejetpack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWaEQOkJsud4KCht-woqaAyrWDMDPW7Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
